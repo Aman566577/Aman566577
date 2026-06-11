@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aman Agarwal 👋
 
-<!--
-**Aman566577/Aman566577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student | Backend Developer
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🏥 [College Appointment System](https://github.com/Aman566577/Appointment_System) — Node.js + Express + MongoDB + JWT + NodeMailer
+
+## 📊 GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman566577&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanagarwal07)
