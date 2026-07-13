@@ -12,6 +12,7 @@
 
 ## 🚀 Projects
 - 🏥 [College Appointment System](https://github.com/Aman566577/Appointment_System) — Node.js + Express + MongoDB + JWT + NodeMailer
+- 💬 [Campus Connect](https://github.com/Aman566577/campus-connect) — Real-time chat app with Socket.io, JWT, MongoDB
 
 ## 💻 DSA & Competitive Programming
 - 🔢 Solving DSA problems in **Java** on LeetCode
